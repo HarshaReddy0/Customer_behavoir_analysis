@@ -177,6 +177,6 @@ pip install pandas numpy matplotlib seaborn
 
 Data Analyst | Python | SQL | PostgreSQL | Power BI
 
-GitHub: [Your GitHub Link]
+GitHub: [[Your GitHub Link](https://github.com/HarshaReddy0/Customer_behavoir_analysis.git)]
 
 LinkedIn: [linkedin.com/in/harshavardan-reddy-h-m-747873293]
